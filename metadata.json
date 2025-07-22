@@ -1,0 +1,8 @@
+{
+  "name": "Copy of 松阪市民ポータルAI",
+  "description": "松阪市の生活、文化、イベント、行政サービスなど、市民の皆様の「知りたい」に応えるためのAIチャットボットです。",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": ""
+}
